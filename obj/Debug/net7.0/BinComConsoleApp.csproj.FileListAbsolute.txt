@@ -1,0 +1,15 @@
+C:\xampp\htdocs\WORK\BinComConsoleApp\bin\Debug\net7.0\BinComConsoleApp.exe
+C:\xampp\htdocs\WORK\BinComConsoleApp\bin\Debug\net7.0\BinComConsoleApp.deps.json
+C:\xampp\htdocs\WORK\BinComConsoleApp\bin\Debug\net7.0\BinComConsoleApp.runtimeconfig.json
+C:\xampp\htdocs\WORK\BinComConsoleApp\bin\Debug\net7.0\BinComConsoleApp.dll
+C:\xampp\htdocs\WORK\BinComConsoleApp\bin\Debug\net7.0\BinComConsoleApp.pdb
+C:\xampp\htdocs\WORK\BinComConsoleApp\obj\Debug\net7.0\BinComConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\WORK\BinComConsoleApp\obj\Debug\net7.0\BinComConsoleApp.AssemblyInfoInputs.cache
+C:\xampp\htdocs\WORK\BinComConsoleApp\obj\Debug\net7.0\BinComConsoleApp.AssemblyInfo.cs
+C:\xampp\htdocs\WORK\BinComConsoleApp\obj\Debug\net7.0\BinComConsoleApp.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\WORK\BinComConsoleApp\obj\Debug\net7.0\BinComConsoleApp.sourcelink.json
+C:\xampp\htdocs\WORK\BinComConsoleApp\obj\Debug\net7.0\BinComConsoleApp.dll
+C:\xampp\htdocs\WORK\BinComConsoleApp\obj\Debug\net7.0\refint\BinComConsoleApp.dll
+C:\xampp\htdocs\WORK\BinComConsoleApp\obj\Debug\net7.0\BinComConsoleApp.pdb
+C:\xampp\htdocs\WORK\BinComConsoleApp\obj\Debug\net7.0\BinComConsoleApp.genruntimeconfig.cache
+C:\xampp\htdocs\WORK\BinComConsoleApp\obj\Debug\net7.0\ref\BinComConsoleApp.dll
